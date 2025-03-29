@@ -54,3 +54,6 @@ main.py         # Основные классы
 pyproject.toml  # Конфигурация зависимостей
 poetry.lock     # Точные версии пакетов
 tests/test_main.py # Юнит-тесты
+
+## Лицензия
+MIT License. Подробнее в файле LICENSE.
