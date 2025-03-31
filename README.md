@@ -50,7 +50,7 @@ print(Category.product_count)      # Общее количество всех т
 
 ## Структура проекта:
 project/
-main.py         # Основные классы
+src/main.py         # Основные классы
 pyproject.toml  # Конфигурация зависимостей
 poetry.lock     # Точные версии пакетов
 tests/test_main.py # Юнит-тесты
