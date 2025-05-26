@@ -47,10 +47,3 @@ electronics = Category(
 
 print(electronics.category_count)  # Доступ к счетчику категорий
 print(Category.product_count)      # Общее количество всех товаров
-
-## Структура проекта:
-project/
-src/main.py         # Основные классы
-pyproject.toml  # Конфигурация зависимостей
-poetry.lock     # Точные версии пакетов
-tests/test_main.py # Юнит-тесты
